@@ -1,1 +1,1 @@
-- [lab1](https://github.com/fearlessatom/human-machine-interface/tree/lab1)
+- [main branch](https://github.com/fearlessatom/human-machine-interface)
